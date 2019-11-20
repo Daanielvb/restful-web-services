@@ -1,4 +1,4 @@
-package com.in28minutes.rest.webservices.restfulwebservices.person;
+package com.rest.webservices.restfulwebservices.person;
 
 public class PersonV1 {
 

@@ -1,4 +1,4 @@
-package com.in28minutes.rest.webservices.restfulwebservices;
+package com.rest.webservices.restfulwebservices;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

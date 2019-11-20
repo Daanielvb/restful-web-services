@@ -1,4 +1,4 @@
-package com.in28minutes.rest.webservices.restfulwebservices.person;
+package com.rest.webservices.restfulwebservices.person;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

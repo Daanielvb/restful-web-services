@@ -1,4 +1,4 @@
-package com.in28minutes.rest.webservices.restfulwebservices.helloworld;
+package com.rest.webservices.restfulwebservices.helloworld;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.MessageSource;
